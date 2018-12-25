@@ -1,4 +1,4 @@
-# feedreader
+# nintex-products
 
 A Vue.js application to select & purchase dummy Nintex products.
 
