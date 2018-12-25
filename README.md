@@ -1,34 +1,27 @@
-# nintex-products-app
+# feedreader
 
-## Project setup
-```
-npm install
-```
+A Vue.js application to select & purchase dummy Nintex products.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Project commands
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Run your tests
+### Run the application
+
 ```
-npm run test
+npm run start
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Run unit tests
 
-### Run your unit tests
 ```
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo application
+
+Click [here](https://nintex-products.herokuapp.com/) to view a running version of the application.
