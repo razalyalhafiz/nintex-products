@@ -21,7 +21,7 @@ npm run start
 ```
 npm run test:unit
 ```
-Note: The API_URL in the .spec files must be updated accordingly. Default is set to localhost.
+Note: The API_URL in the .spec files must be set accordingly. Default is set to localhost.
 
 ### Demo application
 
